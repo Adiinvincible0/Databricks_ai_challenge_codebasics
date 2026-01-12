@@ -1,0 +1,20 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 4: Delta Lake Introduction
+
+### 📝 Overview
+Today, I worked on :
+1. Convert CSV to Delta format
+2. Create Delta tables (SQL and PySpark)
+3. Test schema enforcement
+4. Handle duplicate inserts
+
+### 🛠 Key Learnings
+- What is Delta Lake?
+- ACID transactions
+- Schema enforcement
+- Delta vs Parquet
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
