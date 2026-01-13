@@ -1,0 +1,20 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 5: Delta Lake Advanced
+
+### 📝 Overview
+Today, I worked on :
+1. Implement incremental MERGE
+2. Query historical versions
+3. Optimize tables
+4. Clean old files
+
+### 🛠 Key Learnings
+- Time travel (version history)
+- MERGE operations (upserts)
+- OPTIMIZE & ZORDER
+- VACUUM for cleanup
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
