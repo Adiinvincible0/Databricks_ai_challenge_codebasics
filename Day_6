@@ -1,0 +1,19 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 6: Medallion Architecture
+
+### 📝 Overview
+Today, I worked on :
+1. Design 3-layer architecture
+2. Build Bronze: raw ingestion
+3. Build Silver: cleaning & validation
+4. Build Gold: business aggregates
+
+### 🛠 Key Learnings
+- Bronze (raw) → Silver (cleaned) → Gold (aggregated)
+- Best practices for each layer
+- Incremental processing patterns
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
