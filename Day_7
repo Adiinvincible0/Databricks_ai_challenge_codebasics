@@ -1,0 +1,20 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 7: Workflows & Job Orchestration
+
+### 📝 Overview
+Today, I worked on :
+1. Add parameter widgets to notebooks
+2. Create multi-task job (Bronze→Silver→Gold)
+3. Set up dependencies
+4. Schedule execution
+
+### 🛠 Key Learnings
+- Databricks Jobs vs notebooks
+- Multi-task workflows
+- Parameters & scheduling
+- Error handling
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
