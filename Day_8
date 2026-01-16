@@ -1,0 +1,20 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 8: Unity Catalog Governance
+
+### 📝 Overview
+Today, I worked on :
+1. Create catalog & schemas
+2. Register Delta tables
+3. Set up permissions
+4. Create views for controlled access
+
+### 🛠 Key Learnings
+- Catalog → Schema → Table hierarchy
+- Access control (GRANT/REVOKE)
+- Data lineage
+- Managed vs external tables
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
