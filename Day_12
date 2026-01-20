@@ -1,0 +1,20 @@
+# 🚀 Daily Data Challenge
+
+## 📅 Day 12: MLflow Basics
+
+### 📝 Overview
+Today, I worked on :
+1. Train simple regression model
+2. Log parameters, metrics, model
+3. View in MLflow UI
+4. Compare runs
+
+### 🛠 Key Learnings
+- MLflow components (tracking, registry, models)
+- Experiment tracking
+- Model logging
+- MLflow UI
+
+### 🙌 Acknowledgments & Mentions
+This project is part of my learning journey with the community. 
+Shoutout to @Databricks, @codebasics, and @indiandataclub for the support and resources!
